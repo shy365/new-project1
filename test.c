@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /*
+* @autor    fuhao
 * @brrief   这是一个测试程序
 * @prame    参数个数、参数指针
 * @return   成功返回0,失败返回-1
